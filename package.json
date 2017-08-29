@@ -1,0 +1,24 @@
+{
+  "name": "my-test-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "srart": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rilopatin/my-test-git.git"
+  },
+  "author": "Regina Lopatin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rilopatin/my-test-git/issues"
+  },
+  "homepage": "https://github.com/rilopatin/my-test-git#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
